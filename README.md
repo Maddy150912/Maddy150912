@@ -1,42 +1,51 @@
 # Hi there! 👋
 
-I'm Mandar Yangal, a recent BScIT graduate with a passion for crafting digital solutions. My journey in the world of technology has equipped me with a versatile skill set, and I thrive on turning ideas into functional, user-friendly applications.
+I'm Mandar Yangal — a Data Analytics aspirant with 2 years of industry experience as a Junior Developer.  
+I enjoy working with data, uncovering patterns, and building solutions that turn raw information into meaningful insights.
 
-## 🚀 Tech Stack
-- **Languages:** JavaScript, React.js, Node.js, Express.js, MongoDB, SQL, Java, PHP
-- **Web Technologies:** HTML, CSS
-- **Databases:** MongoDB, SQL
+---
 
-## 🌱 Recent Graduate
-I graduated in 2023 with a BScIT degree, and I'm excited to apply my academic knowledge to real-world projects. Continuous learning is my mantra, and I'm currently diving into Next.js to enhance my web development skills.
+## 📊 Data Analytics Focus
+- Writing SQL queries to analyze structured datasets
+- Data cleaning, validation, and transformation
+- Building analytical projects to extract insights
+- Learning Power BI to create interactive dashboards and KPIs
 
-## 🛠 Currently Learning
-- Exploring the ins and outs of Next.js to enhance my web development skills.
+---
 
-## 💻 Projects & Contributions
-- I've worked on various projects showcasing my proficiency in JavaScript, React.js, Node.js, and more.
+## 🧰 Technical Skills
+**Data & Analysis:** SQL, Python, Data Analysis  
+**Visualization (Learning):** Power BI  
+**Development Background:** Python, jQuery, JavaScript, React.js, Node.js, HTML, CSS  
+**Databases:** SQL, MongoDB  
+**Tools:** Git, GitHub, REST APIs, Linux
 
-## 📚 Education
-- **BScIT Graduate | Class of 2023**
+---
 
-## 🤝 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/mandar-yangal-a72098262)
-- [Personal Website/Blog](https://myportfolio-48hw.onrender.com/)
-- Email me at: mandar.yangal15@gmail.com
+## 📁 Featured Projects
+🔹 SQL Data Analysis Projects  
+🔹 Data Warehouse Project (ETL + Fact Tables + Modeling)  
+🔹 Power BI Dashboard
 
-Feel free to explore my repositories and don't hesitate to reach out. I'm always open to collaboration and new opportunities! 🌟
+(Project links pinned below)
 
-<!--
-**Maddy150912/Maddy150912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🎓 Education
+**BSc in Information Technology**  
+Ramanand Arya D.A.V. College (Autonomous)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Career Goal
+Seeking entry-level opportunities in **Data Analytics, MIS, or Business Intelligence** where I can contribute to data-driven decision-making and grow as an analytics professional.
+
+---
+
+## 🤝 Connect With Me
+🔗 LinkedIn: https://www.linkedin.com/in/mandar-yangal-a72098262  
+🌐 Portfolio: https://my-portfolio-eight-lime-40.vercel.app/  
+📸 Instagram: https://www.instagram.com/mr.maddy150912/  
+📧 Email: mandar.yangal15@gmail.com
+
+Thanks for visiting my profile!
